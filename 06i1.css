@@ -1,0 +1,9 @@
+/* @import "i2.css"; */
+
+/* @import url('i2.css'); */
+@import "06i2.css";
+
+h1 
+{
+    color:red;
+}
